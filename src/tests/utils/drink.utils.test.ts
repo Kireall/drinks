@@ -1,3 +1,5 @@
+import { describe, expect, it } from 'vitest';
+
 import { Drink } from '../../interfaces/drinks.interfaces';
 import { transformObject } from '../../utils/drinks.utils.ts';
 
